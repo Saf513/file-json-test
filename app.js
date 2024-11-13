@@ -30,6 +30,8 @@ fetch('./fichier.json')
            let strong = document.createElement('strong');
            let category=document.createElement('p');
            let type=document.createElement('p');
+           let language=document.createElement('p');
+           let stock=document.createElement('p');
 
            titre.textContent = book.titre;
            descri.textContent = book.description;
@@ -39,6 +41,8 @@ fetch('./fichier.json')
            price.textContent = book.price;
            category.textContent=book.category;
            type.textContent=book.type;
+           language.textContent=book.language;
+           stockstock.textContent=book.stock;
 
             // Ajouter le livre à la page
             booksContainer.appendChild(bookElement);
@@ -49,6 +53,8 @@ fetch('./fichier.json')
             bookElement.appendChild(price);
             bookElement.appendChild(category);
             bookElement.appendChild(type);
+            bookElement.appendChild(language);
+            bookElement.appendChild(stock);
 
         });
     }
