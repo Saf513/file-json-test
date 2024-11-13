@@ -7,7 +7,9 @@
         "img": "https://cdn11.bigcommerce.com/s-gibnfyxosi/images/stencil/2560w/products/172881/174498/51DF6ZR8G7L__38888.1615626055.jpg?c=1",
         "price": 15.99,
         "category": "Fantasy",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "English",
+        "stock": 25
     },
     {
         "id": "2",
@@ -17,7 +19,9 @@
         "img": "https://www.bibdsl.co.uk/imagegallery/bookdata/cd427/9780261103252.JPG",
         "price": 25.99,
         "category": "Fantasy",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 15
     },
     {
         "id": "3",
@@ -27,7 +31,9 @@
         "img": "https://th.bing.com/th/id/OIP.NXy__tPr2YhXWRZV6mv24QHaK6?rs=1&pid=ImgDetMain",
         "price": 9.99,
         "category": "Children's Fiction",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "French",
+        "stock": 30
     },
     {
         "id": "4",
@@ -37,7 +43,9 @@
         "img": "https://th.bing.com/th/id/R.83faee62ce743bd44ee38c35a7fd4848?rik=kg0dM8OX1tNblw&pid=ImgRaw&r=0",
         "price": 12.99,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 20
     },
     {
         "id": "5",
@@ -47,7 +55,9 @@
         "img": "https://i.thenile.io/r1000/9780008144227.jpg?r=5f43a5d7710f7",
         "price": 10.99,
         "category": "Fantasy",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Portuguese",
+        "stock": 10
     },
     {
         "id": "6",
@@ -57,7 +67,9 @@
         "img": "https://th.bing.com/th/id/R.9a1148dcd77be7ff4a134e9f8b0f9718?rik=%2bovZzx%2fuYQ%2bjSQ&pid=ImgRaw&r=0",
         "price": 8.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 35
     },
     {
         "id": "7",
@@ -67,7 +79,9 @@
         "img": "https://th.bing.com/th/id/R.f7e5c7570632139e507465d0ded2d039?rik=0Yq7RmebXz4jfw&pid=ImgRaw&r=0",
         "price": 14.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 18
     },
     {
         "id": "8",
@@ -77,7 +91,9 @@
         "img": "https://s-media-cache-ak0.pinimg.com/736x/da/e8/c7/dae8c79909eb122f15e1a38c60970da8.jpg",
         "price": 18.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 22
     },
     {
         "id": "9",
@@ -87,7 +103,9 @@
         "img": "https://th.bing.com/th/id/OIP.Rvy7bm8xKcY48HcRxJ9LlgHaKi?rs=1&pid=ImgDetMain",
         "price": 13.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Spanish",
+        "stock": 12
     },
     {
         "id": "10",
@@ -97,7 +115,9 @@
         "img": "https://th.bing.com/th/id/R.5b59e0885d8091068eefc098f720b51d?rik=DY%2fqFLat2l4G0Q&pid=ImgRaw&r=0",
         "price": 10.49,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 40
     },
     {
         "id": "11",
@@ -107,7 +127,9 @@
         "img": "https://www.themoviedb.org/t/p/original/ixULCtFsL5azArovcuvJfnPaNHb.jpg",
         "price": 8.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 17
     },
     {
         "id": "12",
@@ -117,7 +139,9 @@
         "img": "https://www.themoviedb.org/t/p/original/aHVE5TqPzJZuwSxNPv99yDmiJii.jpg",
         "price": 14.99,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Italian",
+        "stock": 8
     },
     {
         "id": "13",
@@ -127,7 +151,9 @@
         "img": "https://dwcp78yw3i6ob.cloudfront.net/wp-content/uploads/2016/12/09134609/Fahrenheit451.jpg",
         "price": 9.99,
         "category": "Science Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 33
     },
     {
         "id": "14",
@@ -137,7 +163,9 @@
         "img": "https://media.themoviedb.org/t/p/w500/zOsPAIRyknuPhYpFV0nTzbVLlgM.jpg",
         "price": 7.99,
         "category": "Children's Fiction",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "French",
+        "stock": 20
     },
     {
         "id": "15",
@@ -147,7 +175,9 @@
         "img": "https://th.bing.com/th/id/OIP.izqrQujfwFrKo5rdcUIE3wHaJ4?rs=1&pid=ImgDetMain",
         "price": 6.99,
         "category": "Poetry",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 15
     },
     {
         "id": "16",
@@ -157,7 +187,9 @@
         "img": "https://th.bing.com/th/id/OIP.SHdXghDlLp5dFkeFybvB6AHaJl?rs=1&pid=ImgDetMain",
         "price": 11.49,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 28
     },
     {
         "id": "17",
@@ -167,7 +199,9 @@
         "img": "https://th.bing.com/th/id/OIP.V72Kneb7vovsk_Y8JcmW3QHaLf?rs=1&pid=ImgDetMain",
         "price": 10.99,
         "category": "Romance",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 30
     },
     {
         "id": "18",
@@ -177,7 +211,9 @@
         "img": "https://th.bing.com/th/id/OIP.1l50dH-UvL___lbtn2UnHAHaLy?w=198&h=315&c=7&r=0&o=5&dpr=1.3&pid=1.7",
         "price": 13.49,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 24
     },
     {
         "id": "19",
@@ -187,7 +223,9 @@
         "img": "https://th.bing.com/th/id/OIP.WIjpyi0FAuZvY93E2BYrdwAAAA?rs=1&pid=ImgDetMain",
         "price": 14.99,
         "category": "Romance",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Russian",
+        "stock": 10
     },
     {
         "id": "20",
@@ -197,7 +235,9 @@
         "img": "https://th.bing.com/th/id/OIP.WbJs9tbtsvjVW2kM6oQQ_AHaL2?rs=1&pid=ImgDetMain",
         "price": 15.99,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Russian",
+        "stock": 22
     },
     {
         "id": "21",
@@ -207,17 +247,21 @@
         "img": "https://th.bing.com/th/id/OIP.ZH0EMvhQ4U3HdwyT0rApLQHaKj?rs=1&pid=ImgDetMain",
         "price": 19.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 9
     },
     {
         "id": "22",
         "title": "The Catcher in the Rye",
         "description": "A New York teenager searching for meaning in an adult world.",
         "author": "J.D. Salinger",
-        "img": "https://th.bing.com/th/id/R.cac52fbbefa83812774f681dbf874163?rik=v%2bHq2yBp%2f6RzYw&riu=http%3a%2f%2fmedia.npr.org%2fassets%2fbakertaylor%2fcovers%2fc%2fcatcher-in-the-rye%2f9780316769488_custom-b6fc2e108f3865eb320720875c20e4f869da8065-s6-c30.jpg&ehk=fpDBmQJbSuHhhoBl2AYOifBz0QLtjPI7FBgIYnU65cM%3d&risl=&pid=ImgRaw&r=0",
+        "img": "https://th.bing.com/th/id/R.cac52fbbefa83812774f681dbf874163?rik=v%2bHq2yBp%2f6RzYw&riu=http%3a%2f%2fmedia.npr.org%2fassets%2fbakertaylor%2fc%2fc%2fcatcher-in-the-rye%2f9780316769488_custom-b6fc2e108f3865eb320720875c20e4f869da8065-s6-c30.jpg&ehk=fpDBmQJbSuHhhoBl2AYOifBz0QLtjPI7FBgIYnU65cM%3d&risl=&pid=ImgRaw&r=0",
         "price": 13.99,
         "category": "Literary Fiction",
-        "type": "Young Adult (YA)"
+        "type": "Young Adult (YA)",
+        "language": "English",
+        "stock": 25
     },
     {
         "id": "23",
@@ -227,7 +271,9 @@
         "img": "https://th.bing.com/th/id/R.5e636f1760dff72ea5e764516708136e?rik=jdUPps9OLe0heQ&pid=ImgRaw&r=0",
         "price": 9.49,
         "category": "Literary Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "German",
+        "stock": 20
     },
     {
         "id": "24",
@@ -237,7 +283,9 @@
         "img": "https://th.bing.com/th/id/OIP.4LIjBE9QEcGUHYU_ybctpQHaLJ?rs=1&pid=ImgDetMain",
         "price": 12.49,
         "category": "Horror",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 16
     },
     {
         "id": "25",
@@ -247,7 +295,9 @@
         "img": "https://th.bing.com/th/id/R.d314f0fe4d14768756154f7ca7bd5e25?rik=wgpc7SSG54qbhA&pid=ImgRaw&r=0",
         "price": 7.99,
         "category": "Horror",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 14
     },
     {
         "id": "26",
@@ -257,7 +307,9 @@
         "img": "https://th.bing.com/th/id/OIP.xunuyGdDfSZlsZB-b5vRPAAAAA?rs=1&pid=ImgDetMain",
         "price": 14.99,
         "category": "Poetry",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "French",
+        "stock": 12
     },
     {
         "id": "27",
@@ -267,7 +319,9 @@
         "img": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/89/6f/98/896f98e8-26d8-f31f-fe16-3872e594b312/859773665240_cover.jpg/1200x1200bf-60.jpg",
         "price": 13.49,
         "category": "Literary Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 8
     },
     {
         "id": "28",
@@ -277,7 +331,9 @@
         "img": "https://th.bing.com/th/id/R.550752f8dfa160adbde59cf55511008d?rik=ySslMSo2FGkcCQ&riu=http%3a%2f%2fwww.comicbookcritic.net%2fwp-content%2fuploads%2f2015%2f04%2fStar_Wars_A_New_Hope_OGN_Cover1.jpg&ehk=N%2f3XneBsmo2zFJ0x6gd2hu3gaKCRjJUreROTe5C0j5E%3d&risl=&pid=ImgRaw&r=0",
         "price": 16.99,
         "category": "Science Fiction",
-        "type": "Young Adult (YA)"
+        "type": "Young Adult (YA)",
+        "language": "English",
+        "stock": 20
     },
     {
         "id": "29",
@@ -287,7 +343,9 @@
         "img": "https://images.thenile.io/r1000/9780007458424.jpg",
         "price": 13.99,
         "category": "Fantasy",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "English",
+        "stock": 15
     },
     {
         "id": "30",
@@ -297,7 +355,9 @@
         "img": "https://th.bing.com/th/id/R.5fa07b06a0e17ad3119b301b81a31ad3?rik=28J15OXanlugow&riu=http%3a%2f%2f4.bp.blogspot.com%2f-FhyFYTqblYM%2fTc1szP0VzXI%2fAAAAAAAAC6M%2f4YmuF8Djqlw%2fs1600%2fHungergamesCover.jpg&ehk=cnVIYb310b%2fLVuB%2f8CRPo9I%2fy08skHKwUT2eyXJ%2fC1c%3d&risl=&pid=ImgRaw&r=0",
         "price": 11.99,
         "category": "Dystopian Fiction",
-        "type": "Young Adult (YA)"
+        "type": "Young Adult (YA)",
+        "language": "English",
+        "stock": 10
     },
     {
         "id": "31",
@@ -307,7 +367,9 @@
         "img": "https://hachette.imgix.net/books/9780762498130.jpg?auto=compress,format",
         "price": 12.99,
         "category": "Literary Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 25
     },
     {
         "id": "32",
@@ -317,7 +379,9 @@
         "img": "https://th.bing.com/th/id/OIP.4dG5NskDxy0nuBilxpuTuQHaLb?rs=1&pid=ImgDetMain",
         "price": 10.49,
         "category": "Romance",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 18
     },
     {
         "id": "33",
@@ -327,7 +391,9 @@
         "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146153/frankenstein-9781982146153_hr.jpg",
         "price": 11.99,
         "category": "Horror",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 22
     },
     {
         "id": "34",
@@ -337,7 +403,9 @@
         "img": "https://i.pinimg.com/originals/b7/8f/21/b78f21ade7a20bd1540ea71ba13761a5.jpg",
         "price": 8.99,
         "category": "Horror",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 30
     },
     {
         "id": "35",
@@ -347,7 +415,9 @@
         "img": "https://th.bing.com/th/id/OIP.SWTNCJO-e6VnneyKZqMvKgHaLK?rs=1&pid=ImgDetMain",
         "price": 13.99,
         "category": "Classical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 14
     },
     {
         "id": "36",
@@ -357,7 +427,9 @@
         "img": "https://cdn.kobo.com/book-images/7d711b28-1ddb-472d-9a52-3d0faa2dcf30/1200/1200/False/brave-new-world-9.jpg",
         "price": 14.49,
         "category": "Dystopian Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 17
     },
     {
         "id": "37",
@@ -367,7 +439,9 @@
         "img": "https://th.bing.com/th/id/OIP.ywGAPaKG9wqDqCsKmmFEkgHaK-?rs=1&pid=ImgDetMain",
         "price": 16.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 9
     },
     {
         "id": "38",
@@ -377,7 +451,9 @@
         "img": "https://th.bing.com/th/id/R.744a72f09004e10dba4212e0971f84ab?rik=q8Qqu4DmB2bGtg&riu=http%3a%2f%2finthesetimes.com%2fimages%2fweb%2fweb%2fsumner_slaughterhouse.jpg&ehk=AmY%2bNnk0ecDTWXoO%2fOJpgGCQoVzUM5wtJUmuQKOHcqw%3d&risl=&pid=ImgRaw&r=0",
         "price": 9.99,
         "category": "Science Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 21
     },
     {
         "id": "39",
@@ -387,7 +463,9 @@
         "img": "https://th.bing.com/th/id/R.55059c78f6c65065cb14ee281e524730?rik=yA5wQ0DgW8wBNA&riu=http%3a%2f%2fkosoris.com%2fassets%2fThe-Road-Cover.jpg&ehk=cT1J5s73hVTizWmiC%2f%2f9FhCpm52uoKUW5YUwVvLHT5A%3d&risl=&pid=ImgRaw&r=0",
         "price": 14.99,
         "category": "Dystopian Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 5
     },
     {
         "id": "40",
@@ -397,7 +475,9 @@
         "img": "https://lofkinreview.com/wp-content/uploads/2021/07/catch-22_cover.jpg",
         "price": 13.99,
         "category": "Satire",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 13
     },
     {
         "id": "41",
@@ -407,7 +487,9 @@
         "img": "https://th.bing.com/th/id/R.8697cc74db5911afdc6e83680530401b?rik=1vDwtG3ci2QYLg&riu=http%3a%2f%2fdwcp78yw3i6ob.cloudfront.net%2fwp-content%2fuploads%2f2016%2f12%2f12162813%2f100_Years_First_Ed_Hi_Res-768x1153.jpg&ehk=%2b6OxuEL8iXKiqX9LZgGO6Tac3AslNULuU8MjLqgFkYU%3d&risl=&pid=ImgRaw&r=0",
         "price": 18.99,
         "category": "Magical Realism",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "Spanish",
+        "stock": 6
     },
     {
         "id": "42",
@@ -417,7 +499,9 @@
         "img": "https://th.bing.com/th/id/OIP.j-_x9yCGpMUta_JRzcwdOgAAAA?rs=1&pid=ImgDetMain",
         "price": 14.99,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 10
     },
     {
         "id": "43",
@@ -427,7 +511,9 @@
         "img": "https://cdn2.penguin.com.au/covers/original/9780099572954.jpg",
         "price": 7.99,
         "category": "Children's Fiction",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "English",
+        "stock": 25
     },
     {
         "id": "44",
@@ -437,7 +523,9 @@
         "img": "https://th.bing.com/th/id/R.99e9ed258ffa9c38f92fcdd98c1765f6?rik=a8H0JyRTZuXtlw&riu=http%3a%2f%2fwww.nothinganygood.com%2fwp-content%2fuploads%2f2017%2f02%2ftale-of-two-cities-book-cover.jpg&ehk=kAdyKWqn5FDte3x8dU9W6OogLlxgJtJsT%2fyMo9kfRUU%3d&risl=&pid=ImgRaw&r=0",
         "price": 11.49,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 14
     },
     {
         "id": "45",
@@ -447,7 +535,9 @@
         "img": "https://th.bing.com/th/id/R.8f1b54c7207c27bdd8b77bcd5be31b85?rik=OalON7kcJ%2bwDNA&pid=ImgRaw&r=0",
         "price": 9.99,
         "category": "Classical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 19
     },
     {
         "id": "46",
@@ -457,7 +547,9 @@
         "img": "https://static.faber.co.uk/wp-content/uploads/2022/09/Bell-Jar-2-450x690.jpg",
         "price": 10.99,
         "category": "Literary Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 22
     },
     {
         "id": "47",
@@ -467,7 +559,9 @@
         "img": "https://th.bing.com/th/id/OIP.SwfiX3jY9A5_pwTQ2IaZigHaLH?rs=1&pid=ImgDetMain",
         "price": 15.49,
         "category": "Horror",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 13
     },
     {
         "id": "48",
@@ -477,7 +571,9 @@
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327110400l/11047554.jpg",
         "price": 12.99,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 16
     },
     {
         "id": "49",
@@ -487,7 +583,9 @@
         "img": "https://images.librarywala.com/book/medium/51MWPVuxwQL.jpg",
         "price": 9.99,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 9
     },
     {
         "id": "50",
@@ -497,7 +595,9 @@
         "img": "https://th.bing.com/th/id/OIP.a3sNO6-LWqwfm2PcGg6n9gAAAA?rs=1&pid=ImgDetMain",
         "price": 13.49,
         "category": "Romance",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 11
     },
     {
         "id": "51",
@@ -507,7 +607,9 @@
         "img": "https://th.bing.com/th/id/OIP.oVmQApU9yUI5eE46M0wt2AHaKP?rs=1&pid=ImgDetMain",
         "price": 11.99,
         "category": "Adventure",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 14
     },
     {
         "id": "52",
@@ -517,7 +619,9 @@
         "img": "https://pics.filmaffinity.com/The_Hunger-775947755-large.jpg",
         "price": 16.49,
         "category": "Historical Fiction",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 12
     },
     {
         "id": "53",
@@ -527,7 +631,9 @@
         "img": "https://th.bing.com/th/id/OIP.f__hs-dJM2KOpk5z_vbSQwHaLj?rs=1&pid=ImgDetMain",
         "price": 10.49,
         "category": "Thriller",
-        "type": "Adult"
+        "type": "Adult",
+        "language": "English",
+        "stock": 18
     },
     {
         "id": "54",
@@ -537,6 +643,8 @@
         "img": "https://mpd-biblio-covers.imgix.net/9781250003430.jpg",
         "price": 7.99,
         "category": "Science Fiction",
-        "type": "Children's Fiction"
+        "type": "Children's Fiction",
+        "language": "English",
+        "stock": 20
     }
 ]
