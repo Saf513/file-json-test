@@ -42,7 +42,7 @@ fetch('./fichier.json')
            category.textContent=book.category;
            type.textContent=book.type;
            language.textContent=book.language;
-           stockstock.textContent=book.stock;
+           stock.textContent=book.stock;
 
             // Ajouter le livre à la page
             booksContainer.appendChild(bookElement);
