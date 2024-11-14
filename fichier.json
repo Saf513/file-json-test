@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Harry Potter and the Sorcerer's Stone",
-        "description": "The first book in the Harry Potter series.",
+        "description": "The first book in the Harry Potter series. A young boy discovers he's a wizard.",
         "author": "J.K. Rowling",
         "img": "https://cdn11.bigcommerce.com/s-gibnfyxosi/images/stencil/2560w/products/172881/174498/51DF6ZR8G7L__38888.1615626055.jpg?c=1",
         "price": 15.99,
@@ -14,7 +14,7 @@
     {
         "id": "2",
         "title": "The Lord of the Rings",
-        "description": "An epic fantasy tale set in Middle-earth.",
+        "description": "An epic fantasy tale set in Middle-earth. A young hobbit embarks on a perilous journey.",
         "author": "J.R.R. Tolkien",
         "img": "https://www.bibdsl.co.uk/imagegallery/bookdata/cd427/9780261103252.JPG",
         "price": 25.99,
@@ -26,7 +26,7 @@
     {
         "id": "3",
         "title": "The Little Prince",
-        "description": "A touching story about a young prince exploring the universe.",
+        "description": "A touching story about a young prince exploring the universe. He meets many strange characters.",
         "author": "Antoine de Saint-Exupéry",
         "img": "https://th.bing.com/th/id/OIP.NXy__tPr2YhXWRZV6mv24QHaK6?rs=1&pid=ImgDetMain",
         "price": 9.99,
@@ -38,7 +38,7 @@
     {
         "id": "4",
         "title": "1984",
-        "description": "A dystopian novel depicting a totalitarian society.",
+        "description": "A dystopian novel depicting a totalitarian society. The protagonist struggles against oppressive control.",
         "author": "George Orwell",
         "img": "https://th.bing.com/th/id/R.83faee62ce743bd44ee38c35a7fd4848?rik=kg0dM8OX1tNblw&pid=ImgRaw&r=0",
         "price": 12.99,
@@ -50,7 +50,7 @@
     {
         "id": "5",
         "title": "The Alchemist",
-        "description": "A philosophical journey in search of one's destiny.",
+        "description": "A philosophical journey in search of one's destiny. Santiago the shepherd seeks a treasure.",
         "author": "Paulo Coelho",
         "img": "https://i.thenile.io/r1000/9780008144227.jpg?r=5f43a5d7710f7",
         "price": 10.99,
@@ -62,7 +62,7 @@
     {
         "id": "6",
         "title": "Pride and Prejudice",
-        "description": "A classic romantic comedy from the early 19th century.",
+        "description": "A classic romantic comedy from the early 19th century. Elizabeth Bennet navigates love and societal expectations.",
         "author": "Jane Austen",
         "img": "https://th.bing.com/th/id/R.9a1148dcd77be7ff4a134e9f8b0f9718?rik=%2bovZzx%2fuYQ%2bjSQ&pid=ImgRaw&r=0",
         "price": 8.99,
@@ -74,7 +74,7 @@
     {
         "id": "7",
         "title": "The Count of Monte Cristo",
-        "description": "The story of a spectacular revenge and redemption.",
+        "description": "The story of a spectacular revenge and redemption. Edmond Dantès escapes imprisonment to seek vengeance.",
         "author": "Alexandre Dumas",
         "img": "https://th.bing.com/th/id/R.f7e5c7570632139e507465d0ded2d039?rik=0Yq7RmebXz4jfw&pid=ImgRaw&r=0",
         "price": 14.99,
@@ -86,7 +86,7 @@
     {
         "id": "8",
         "title": "Les Misérables",
-        "description": "A classic of French literature about redemption and injustice.",
+        "description": "A classic of French literature about redemption and injustice. Jean Valjean's struggle against society's cruelty.",
         "author": "Victor Hugo",
         "img": "https://s-media-cache-ak0.pinimg.com/736x/da/e8/c7/dae8c79909eb122f15e1a38c60970da8.jpg",
         "price": 18.99,
@@ -98,7 +98,7 @@
     {
         "id": "9",
         "title": "Don Quixote",
-        "description": "The adventures of Don Quixote and his faithful squire, Sancho Panza.",
+        "description": "The adventures of Don Quixote and his faithful squire, Sancho Panza. A tale of chivalry, delusion, and honor.",
         "author": "Miguel de Cervantes",
         "img": "https://th.bing.com/th/id/OIP.Rvy7bm8xKcY48HcRxJ9LlgHaKi?rs=1&pid=ImgDetMain",
         "price": 13.99,
@@ -110,7 +110,7 @@
     {
         "id": "10",
         "title": "To Kill a Mockingbird",
-        "description": "A poignant look at racism and injustice in America.",
+        "description": "A poignant look at racism and injustice in America. Scout Finch recounts her childhood in the Deep South.",
         "author": "Harper Lee",
         "img": "https://th.bing.com/th/id/R.5b59e0885d8091068eefc098f720b51d?rik=DY%2fqFLat2l4G0Q&pid=ImgRaw&r=0",
         "price": 10.49,
@@ -122,7 +122,7 @@
     {
         "id": "11",
         "title": "The Old Man and the Sea",
-        "description": "The story of an old fisherman battling a giant marlin.",
+        "description": "The story of an old fisherman battling a giant marlin. A tale of endurance and the struggle for survival.",
         "author": "Ernest Hemingway",
         "img": "https://www.themoviedb.org/t/p/original/ixULCtFsL5azArovcuvJfnPaNHb.jpg",
         "price": 8.99,
@@ -134,7 +134,7 @@
     {
         "id": "12",
         "title": "The Name of the Rose",
-        "description": "A mystery set in a medieval monastery.",
+        "description": "A mystery set in a medieval monastery. Brother William investigates a series of strange deaths.",
         "author": "Umberto Eco",
         "img": "https://www.themoviedb.org/t/p/original/aHVE5TqPzJZuwSxNPv99yDmiJii.jpg",
         "price": 14.99,
@@ -146,7 +146,7 @@
     {
         "id": "13",
         "title": "Fahrenheit 451",
-        "description": "A dystopia where books are burned to control ideas.",
+        "description": "A dystopia where books are burned to control ideas. Guy Montag begins questioning his role in society.",
         "author": "Ray Bradbury",
         "img": "https://dwcp78yw3i6ob.cloudfront.net/wp-content/uploads/2016/12/09134609/Fahrenheit451.jpg",
         "price": 9.99,
@@ -158,7 +158,7 @@
     {
         "id": "14",
         "title": "The Little Nicolas",
-        "description": "The humorous adventures of Little Nicolas.",
+        "description": "The humorous adventures of Little Nicolas. He gets into trouble with his friends in charming ways.",
         "author": "René Goscinny",
         "img": "https://media.themoviedb.org/t/p/w500/zOsPAIRyknuPhYpFV0nTzbVLlgM.jpg",
         "price": 7.99,
@@ -170,7 +170,7 @@
     {
         "id": "15",
         "title": "The Flowers of Evil",
-        "description": "A collection of classic poems exploring beauty and evil.",
+        "description": "A collection of classic poems exploring beauty and evil. Baudelaire examines the duality of life.",
         "author": "Charles Baudelaire",
         "img": "https://th.bing.com/th/id/OIP.izqrQujfwFrKo5rdcUIE3wHaJ4?rs=1&pid=ImgDetMain",
         "price": 6.99,
@@ -182,7 +182,7 @@
     {
         "id": "16",
         "title": "Moby Dick",
-        "description": "The quest of Captain Ahab to capture Moby Dick, a white whale.",
+        "description": "The quest of Captain Ahab to capture Moby Dick, a white whale. The novel explores obsession and revenge.",
         "author": "Herman Melville",
         "img": "https://th.bing.com/th/id/OIP.SHdXghDlLp5dFkeFybvB6AHaJl?rs=1&pid=ImgDetMain",
         "price": 11.49,
@@ -194,7 +194,7 @@
     {
         "id": "17",
         "title": "Jane Eyre",
-        "description": "The story of a young orphan's quest for love and independence.",
+        "description": "The story of a young orphan's quest for love and independence. Jane Eyre navigates personal and social challenges.",
         "author": "Charlotte Brontë",
         "img": "https://th.bing.com/th/id/OIP.V72Kneb7vovsk_Y8JcmW3QHaLf?rs=1&pid=ImgDetMain",
         "price": 10.99,
@@ -206,7 +206,7 @@
     {
         "id": "18",
         "title": "The Three Musketeers",
-        "description": "The adventures of D'Artagnan and the three musketeers.",
+        "description": "The adventures of D'Artagnan and the three musketeers. Together, they embark on daring missions in 17th-century France.",
         "author": "Alexandre Dumas",
         "img": "https://th.bing.com/th/id/OIP.1l50dH-UvL___lbtn2UnHAHaLy?w=198&h=315&c=7&r=0&o=5&dpr=1.3&pid=1.7",
         "price": 13.49,
@@ -218,7 +218,7 @@
     {
         "id": "19",
         "title": "Anna Karenina",
-        "description": "A tragic love story in Russian high society.",
+        "description": "A tragic love story in Russian high society. Anna Karenina's passionate affair leads to societal ruin.",
         "author": "Leo Tolstoy",
         "img": "https://th.bing.com/th/id/OIP.WIjpyi0FAuZvY93E2BYrdwAAAA?rs=1&pid=ImgDetMain",
         "price": 14.99,
@@ -230,7 +230,7 @@
     {
         "id": "20",
         "title": "Crime and Punishment",
-        "description": "The psychology of a murder in Tsarist Russia.",
+        "description": "The psychology of a murder in Tsarist Russia. Raskolnikov struggles with guilt after committing a heinous crime.",
         "author": "Fyodor Dostoevsky",
         "img": "https://th.bing.com/th/id/OIP.WbJs9tbtsvjVW2kM6oQQ_AHaL2?rs=1&pid=ImgDetMain",
         "price": 15.99,
@@ -388,36 +388,36 @@
         "title": "Frankenstein",
         "description": "A scientist's pursuit of knowledge leads to the creation of a monster.",
         "author": "Mary Shelley",
-        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146153/frankenstein-9781982146153_hr.jpg",
-        "price": 11.99,
-        "category": "Horror",
+        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982147480/frankenstein-9781982147480_hr.jpg",
+        "price": 8.99,
+        "category": "Science Fiction",
         "type": "Adult",
         "language": "English",
-        "stock": 22
+        "stock": 20
     },
     {
         "id": "34",
-        "title": "Dr. Jekyll and Mr. Hyde",
-        "description": "The transformation of a kind doctor into a violent alter ego.",
-        "author": "Robert Louis Stevenson",
-        "img": "https://i.pinimg.com/originals/b7/8f/21/b78f21ade7a20bd1540ea71ba13761a5.jpg",
-        "price": 8.99,
-        "category": "Horror",
+        "title": "1984",
+        "description": "A dystopian society under the totalitarian regime of Big Brother.",
+        "author": "George Orwell",
+        "img": "https://www.penguin.co.uk/content/dam/prh/books/299/299356/9780141036144.jpg",
+        "price": 14.99,
+        "category": "Dystopian Fiction",
         "type": "Adult",
         "language": "English",
-        "stock": 30
+        "stock": 20
     },
     {
         "id": "35",
-        "title": "The Odyssey",
-        "description": "The epic journey of Odysseus as he returns home from the Trojan War.",
-        "author": "Homer",
-        "img": "https://th.bing.com/th/id/OIP.SWTNCJO-e6VnneyKZqMvKgHaLK?rs=1&pid=ImgDetMain",
-        "price": 13.99,
-        "category": "Classical Fiction",
-        "type": "Adult",
-        "language": "English",
-        "stock": 14
+        "title": "The Little Prince",
+        "description": "A philosophical tale that explores themes of love, loss, and childhood innocence.",
+        "author": "Antoine de Saint-Exupéry",
+        "img": "https://th.bing.com/th/id/R.9b19b3094b3f91331f7e91e401f34239?rik=wrdSdt6WkgS8Xg&riu=http%3a%2f%2fwww.booksfact.com%2fwp-content%2fuploads%2f2020%2f03%2fLe_Petit_Prince.jpg&ehk=srGAvsXmj4Q%2fT1mwRtnX4lq%2bbub%2fH9s1JdTz%2fmrXYtk%3d&risl=&pid=ImgRaw&r=0",
+        "price": 6.99,
+        "category": "Children's Fiction",
+        "type": "Children's Fiction",
+        "language": "French",
+        "stock": 30
     },
     {
         "id": "36",
